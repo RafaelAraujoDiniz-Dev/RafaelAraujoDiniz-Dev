@@ -26,7 +26,8 @@ Tenho sólida vivência em **suporte, redes, servidores Windows/Linux, CFTV, inf
 [![Power BI](https://img.shields.io/badge/Microsoft-Power%20BI-yellow?logo=powerbi&logoColor=black)](https://www.udemy.com/course/70-778-analyzing-and-visualizing-data-with-power-bi/)  
 [![Cisco](https://img.shields.io/badge/Cisco-CCNA%20%7C%20Network%20Defender-1BA0D7?logo=cisco&logoColor=white)]()  
 [![ITIL](https://img.shields.io/badge/ITIL-Exin-purple)]()  
-[![Cloud IA](https://img.shields.io/badge/Cloud-Inteligência%20Artificial-4285F4?logo=googlecloud&logoColor=white)]()  
+[![Cloud IA](https://img.shields.io/badge/DIO-Cloud%20com%20IA-4285F4?logo=googlecloud&logoColor=white)]()  
+[![Machine Learning](https://img.shields.io/badge/DIO-Machine%20Learning%20Training-green)]()  
 [![Furukawa](https://img.shields.io/badge/Furukawa-Cabeamento%20Estruturado-orange)]()  
 [![Fortinet](https://img.shields.io/badge/Fortinet-NSE%202-red?logo=fortinet&logoColor=white)]()  
 
