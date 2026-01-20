@@ -25,7 +25,7 @@ Tenho sólida vivência em **suporte, redes, servidores Windows/Linux, CFTV, inf
 
 
 [![Google Data Analytics](https://img.shields.io/badge/Google-Data%20Analytics-blue?logo=google&logoColor=white)](https://www.coursera.org/account/accomplishments/specialization/V5ZVDXG5FS9J)
-[![Power BI](https://www.udemy.com/course/70-778-analyzing-and-visualizing-data-with-power-bi/)
+![Power BI](https://www.udemy.com/course/70-778-analyzing-and-visualizing-data-with-power-bi/)]()
 [![Cisco](https://img.shields.io/badge/Cisco-CCNA%20%7C%20Network%20Defender-1BA0D7?logo=cisco&logoColor=white)]()  
 [![ITIL](https://img.shields.io/badge/ITIL-Exin-purple)]()  
 [![Cloud IA](https://img.shields.io/badge/DIO-Cloud%20com%20IA-4285F4?logo=googlecloud&logoColor=white)]()  
