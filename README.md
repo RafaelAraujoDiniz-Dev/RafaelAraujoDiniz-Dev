@@ -1,87 +1,88 @@
-# Rafael Araújo Diniz  
+# Rafael Araújo Diniz
 
 [![GitHub](https://img.shields.io/badge/GitHub-000?logo=github&logoColor=white)](https://github.com/RafaelAraujoDiniz-Dev)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://linkedin.com/in/seu-perfil)
+[![Diniz NextTI](https://img.shields.io/badge/Diniz-NextTI-0D47A1?logo=googlechrome&logoColor=white)](https://rafaelaraujodiniz-dev.github.io/diniznexti/)
 
 ---
 
-## 💬 Sobre Mim  
+## 💬 Sobre Mim
 
-Sou **Analista de TI** com experiência consolidada em **suporte técnico, administração de redes e infraestrutura de TI**.  
-Atuo há mais de **10 anos** na implementação e manutenção de sistemas, segurança da informação, gerenciamento de acessos e suporte a usuários.  
+Sou **Analista de TI com mais de 10 anos de experiência** em **infraestrutura, redes, suporte técnico e segurança da informação**, atuando em ambientes corporativos críticos e de alta disponibilidade.
 
-🎯 Pós-graduado em **Engenharia de Redes e Telecomunicação**  
-📚 Graduação em **Engenharia da Computação (em andamento)**  
-🖧 Tecnólogo em **Redes de Computadores**  
+Tenho sólida vivência em:
+- 🖧 Administração de redes e servidores **Windows/Linux**
+- 🔐 Gestão de acessos e **segurança da informação**
+- 🛠 Suporte técnico **N1/N2/N3** e troubleshooting avançado
+- 🗄 **SQL**, banco de dados e análise exploratória de dados
+- 👥 Liderança técnica e **gestão de SLA**
+- 📋 Governança de serviços com **ITIL**
 
-Tenho sólida vivência em **suporte, redes, servidores Windows/Linux, CFTV, infraestrutura e banco de dados**, além de experiência em **liderança de equipes de TI** e aplicação de metodologias de governança como **ITIL**.  
+🎓 Pós-graduado em **Engenharia de Redes e Telecomunicações**  
+🎓 Tecnólogo em **Redes de Computadores**  
+🎓 Graduando em **Engenharia da Computação**
 
-> "Minha missão é unir conhecimento técnico e dedicação para entregar soluções seguras, estáveis e de impacto real."  
-
----
-
-
-## 🏆 Certificações  
-
-
-[![Google Data Analytics](https://img.shields.io/badge/Google-Data%20Analytics-blue?logo=google&logoColor=white)](https://www.coursera.org/account/accomplishments/specialization/V5ZVDXG5FS9J)<br>
-[![Power BI](https://img.shields.io/badge/Microsoft-Power%20BI-yellow?logo=powerbi&logoColor=black)](https://www.udemy.com/course/70-778-analyzing-and-visualizing-data-with-power-bi/)<br>
-[![Cisco](https://img.shields.io/badge/Cisco-CCNA%20%7C%20Network%20Defender-1BA0D7?logo=cisco&logoColor=white)]()  
-[![ITIL](https://img.shields.io/badge/ITIL-Exin-purple)]()  
-[![Cloud IA](https://img.shields.io/badge/DIO-Cloud%20com%20IA-4285F4?logo=googlecloud&logoColor=white)]()  
-[![Machine Learning](https://img.shields.io/badge/DIO-Machine%20Learning%20Training-green)]()  
-[![Furukawa](https://img.shields.io/badge/Furukawa-Cabeamento%20Estruturado-orange)]()  
-[![Fortinet](https://img.shields.io/badge/Fortinet-NSE%202-red?logo=fortinet&logoColor=white)]()  
-
-
+> 💡 *Transformo problemas técnicos em soluções seguras, escaláveis e orientadas a resultados.*
 
 ---
 
-## 🚀 Experiência  
+## 🚀 Experiência
 
 - **Analista de Suporte – Stefanini**  
-  Suporte via ServiceNow, troubleshooting em Windows e redes, gestão de acessos, consultas SQL.  
+  Suporte via ServiceNow, troubleshooting em Windows e redes, gestão de acessos, consultas SQL e apoio à análise de dados.
 
-- **Técnico em Manutenção Externa – Labor Engenharia / SMTT**  
-  Montagem e manutenção de computadores, CFTV, infraestrutura de redes, ERP.  
+- **Supervisor de TI – CTIS / Aeroporto de São Luís**  
+  Liderança de equipe técnica, administração de servidores Windows/Linux, segurança de redes e gestão de SLA acima de 95%.
 
 - **Técnico em Operações – Velsis Tecnologia / SMTT**  
-  Instalação de sistemas de monitoramento, banco de dados e suporte a ERP.  
+  Implantação e manutenção de sistemas de monitoramento, suporte a ERP, banco de dados e operação de sistemas críticos.
 
-- **Supervisor de TI – CTIS / Aeroporto São Luís**  
-  Liderança de equipe, servidores Windows/Linux, segurança de redes, SLA de 95%.  
+- **Técnico em Manutenção Externa – Labor Engenharia / SMTT**  
+  Montagem e manutenção de computadores, instalação de sistemas de **CFTV**, infraestrutura de redes, suporte a **ERP** e atendimento técnico em campo.
 
 - **Analista de Suporte – Farmácias FTB**  
-  ERP/PDV, configuração de servidores, segurança da informação.  
+  Suporte a ERP/PDV, configuração de servidores, manutenção de sistemas e segurança da informação.
 
 ---
 
-## 📊 Fórmula da minha carreira  
+## 🧠 Projetos em Destaque
 
-\[
-R = (T + D + C)^2
-\]
+### 🚲 Análise de Dados – Bike Share (Estudo de Caso)
+**SQL | Análise Exploratória de Dados | Insights de Negócio**
 
-**Resultado = (Tempo + Dedicação + Conhecimento)²**
+Estudo de caso desenvolvido no Kaggle com dados reais de um sistema de bicicletas compartilhadas, focado na identificação de padrões de uso, comportamento dos usuários e fatores de sucesso do negócio.
 
----
+✅ **Resultado:** geração de insights acionáveis para estratégias de retenção, marketing e otimização operacional.
 
-## 📈 Visitas no Perfil  
-
-![Profile Views](https://komarev.com/ghpvc/?username=RafaelAraujoDiniz-Dev&color=blue&style=flat-square)
+🔗 https://www.kaggle.com/code/rafaeldinizzz/bike-share-um-estudo-de-caso-sobre-sucesso
 
 ---
 
-## 📊 Estatísticas do GitHub  
+### 🌐 Diniz NextTI – Portfólio Profissional
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=RafaelAraujoDiniz-Dev&show_icons=true&theme=tokyonight&hide_border=true)  
+Projeto profissional que centraliza experiências, soluções técnicas e evolução contínua nas áreas de **infraestrutura, redes, suporte e análise de dados**.
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RafaelAraujoDiniz-Dev&layout=compact&theme=tokyonight&hide_border=true)  
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=RafaelAraujoDiniz-Dev&theme=tokyonight&hide_border=true)  
+🔗 https://rafaelaraujodiniz-dev.github.io/diniznexti/
 
 ---
 
-## 🏆 Troféus do GitHub  
+## 🏆 Certificações
 
-![trophy](https://github-profile-trophy.vercel.app/?username=RafaelAraujoDiniz-Dev&theme=tokyonight&row=1&column=6&margin-w=15&margin-h=15)
+[![Google Data Analytics](https://img.shields.io/badge/Google-Data%20Analytics-blue?logo=google&logoColor=white)](https://www.coursera.org/account/accomplishments/specialization/V5ZVDXG5FS9J)<br/>
+[![Power BI](https://img.shields.io/badge/Microsoft-Power%20BI-yellow?logo=powerbi&logoColor=black)](https://www.udemy.com/course/70-778-analyzing-and-visualizing-data-with-power-bi/)<br/>
+[![Cisco](https://img.shields.io/badge/Cisco-CCNA%20%7C%20Network%20Defender-1BA0D7?logo=cisco&logoColor=white)](https://www.credly.com/)<br/>
+[![ITIL](https://img.shields.io/badge/ITIL-EXIN-purple)](https://www.exin.com/)<br/>
+[![Cloud IA](https://img.shields.io/badge/DIO-Cloud%20com%20IA-4285F4?logo=googlecloud&logoColor=white)](https://www.dio.me/)<br/>
+[![Machine Learning](https://img.shields.io/badge/DIO-Machine%20Learning%20Training-green)](https://www.dio.me/)<br/>
+[![Furukawa](https://img.shields.io/badge/Furukawa-Cabeamento%20Estruturado-orange)](https://www.furukawa.com.br/)<br/>
+[![Fortinet](https://img.shields.io/badge/Fortinet-NSE%202-red?logo=fortinet&logoColor=white)](https://training.fortinet.com/)
+
+---
+
+## 📊 Fórmula da Minha Carreira
+
+R = (Tempo + Dedicação + Conhecimento)²
+
+---
+
+🔎 **Palavras-chave:** Analista de TI • Infraestrutura • Redes • Windows Server • Linux • SQL • ITIL • Suporte N2/N3 • Análise de Dados • Power BI • Segurança da Informação
